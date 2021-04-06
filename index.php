@@ -3,6 +3,8 @@
 /**
  * Copyright (C) 2020 Xibo Signage Ltd
  *
+ * && 77STUDIO
+ *
  * Xibo - Digital Signage - http://www.xibo.org.uk
  *
  * This file is part of Xibo.
